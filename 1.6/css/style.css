@@ -1,0 +1,43 @@
+.WPTTT_game-center-align {
+	text-align:center;
+	text-decoration: none;
+	padding:1%;
+}
+button:focus
+{
+	outline:none !important;
+}
+
+.WPTTT_settings-intro {
+    
+	font:16px/26px Georgia, Garamond, Serif;
+	text-align:center;
+}
+
+p.WPTTT-h2 {
+    display:inline;
+	font-size:14pt !important;
+    padding: 5px !important;
+	font-weight:bold;
+	text-decoration:none !important;
+}
+
+.WPTTT-h2 {
+    
+	padding-left: 13%;
+	text-decoration: underline;
+}
+
+.WPTTT-codebxne
+{
+    display:inline-block;
+    color:#008753 !important;
+    background-color:#fefcff;
+    font-weight:700;
+    font-size:17pt;
+    padding:10px;
+    cursor: text;
+}
+
+
+
